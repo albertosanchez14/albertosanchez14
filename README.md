@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [-add-](-add-)
 
-- 📫 How to reach me **something@gmail.com**
+- 📫 How to reach me **alberto.sanchez.delalamo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
