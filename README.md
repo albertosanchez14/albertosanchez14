@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">Software engineer focused in full-stack development, problem-solving, and delivering efficient solutions.</h3>
+<h3 align="center">Software engineer focused in full-stack development</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/albertosanchez14](https://github.com/albertosanchez14)
 
